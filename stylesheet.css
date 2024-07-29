@@ -39,14 +39,12 @@ body{
 .navbar a:hover{
     color: rgb(61, 155, 162);
 }
-.home{
+.home {
     position: relative;
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url()no-repeat;
-    background-size: cover;
-    background-position: center;
+    background: linear-gradient(to right, #bf8080, #d9b1b1); /* Example gradient */
     display: flex;
     align-items: center;
     padding: 70px 10% 0;
